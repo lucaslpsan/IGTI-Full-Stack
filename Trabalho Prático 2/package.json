@@ -1,0 +1,11 @@
+{
+  "name": "trabalho-pratico-2",
+  "version": "1.0.0",
+  "description": "Realiza a leitura, criação e manipulação dos JSONs de estados e municípios do Trabalho Prático 2 - Bootcamp IGTI Full Stack - 06/2020.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Lopes - lucaslpsan",
+  "license": "MIT"
+}
