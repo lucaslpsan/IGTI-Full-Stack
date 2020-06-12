@@ -1,0 +1,15 @@
+{
+  "name": "grades-control-api",
+  "version": "1.0.0",
+  "description": "API do Desafio do Módulo 2 do Bootcamp Full Stack IGTI",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Lopes - lucaslpsan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "type": "module"
+}
